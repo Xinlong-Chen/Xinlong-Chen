@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 ### Hi there, I'm Xinlong Chen! 👋 
 
 - Frist-year master student at Zhejiang University.
-- Backend Develop Internship in Didi (2021)
-- Infrastructure Develop Internship in Face++ (2022)
 - I’m currently learning Distributed System...
 
 
