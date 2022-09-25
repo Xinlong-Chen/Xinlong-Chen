@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Xinlong Chen! 👋 
 
-- Frist-year master student at Zhejiang University.
+- Second-year master student at Zhejiang University.
 - I’m currently learning Distributed System...
 
 
