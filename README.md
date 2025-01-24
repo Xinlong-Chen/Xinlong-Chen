@@ -13,17 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Xinlong-Chen's GitHub stats](https://github-readme-stats-eta-sable.vercel.app/api?username=Xinlong-Chen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats-eta-sable.vercel.app/api/top-langs/?username=Xinlong-Chen&layout=compact&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 ### Hi there, I'm Xinlong Chen! 👋 
 
-- Second-year master student at Zhejiang University.
-- I’m currently learning Distributed System...
+- Operating System Engineer at Tencent,
+- I’m currently working with Operating System Distribution base on RISC-V.
+- Welcome to join us. (https://gitee.com/opencloudos-stream/)
 
 
 ### Skill & Interest
 
-- Languages：C/C++, Python, Go, Markdown, PPT...
-- Interested but weak in robot, image processing.
+- Languages：SPEC, C/C++, Python, Go, Markdown, PPT...
+- Interested but weak in Operating System and Distributed System.
+
+### NEWS!!!
+
+- We just completed the development of OpencloudOS Stream (RISC-V),
+- and the preview Distribution will come on soon.
