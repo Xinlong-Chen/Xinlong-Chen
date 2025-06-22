@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 ### NEWS!!!
 
 - We just completed the development of OpencloudOS Stream (RISC-V),
-- and the preview Distribution will come on soon.
+- which can run in the qemu and [SG2042](https://milkv.io/pioneer),
+- here is the [preview Distribution](https://github.com/ruyisdk/support-matrix/blob/main/Pioneer/openCloudOS/README_linuxboot.md), have fun!
