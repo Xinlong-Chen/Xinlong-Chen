@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Xinlong Chen! 👋 
 
-- Operating System Engineer (or Compiler Engineer) at Tencent,
+- Operating System Engineer at Tencent,
 - I’m currently working with Operating System Distribution base on RISC-V.
 - Welcome to join us. (https://gitee.com/opencloudos-stream/)
 
